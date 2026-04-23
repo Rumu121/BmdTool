@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\BMDTool\BmdStudio\publish_fd\BMDEditor.exe
+C:\Users\PC\Desktop\BMDTool\BmdStudio\publish_fd\BMDEditor.dll
+C:\Users\PC\Desktop\BMDTool\BmdStudio\publish_fd\BMDEditor.deps.json
+C:\Users\PC\Desktop\BMDTool\BmdStudio\publish_fd\BMDEditor.runtimeconfig.json
+C:\Users\PC\Desktop\BMDTool\BmdStudio\publish_fd\BMDEditor.pdb

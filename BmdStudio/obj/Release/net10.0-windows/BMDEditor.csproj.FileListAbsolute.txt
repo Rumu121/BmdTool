@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\BMDTool\BmdStudio\bin\Release\net10.0-windows\BMDEditor.exe
+C:\Users\PC\Desktop\BMDTool\BmdStudio\bin\Release\net10.0-windows\BMDEditor.deps.json
+C:\Users\PC\Desktop\BMDTool\BmdStudio\bin\Release\net10.0-windows\BMDEditor.runtimeconfig.json
+C:\Users\PC\Desktop\BMDTool\BmdStudio\bin\Release\net10.0-windows\BMDEditor.dll
+C:\Users\PC\Desktop\BMDTool\BmdStudio\bin\Release\net10.0-windows\BMDEditor.pdb
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.AssemblyInfo.cs
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.dll
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\refint\BMDEditor.dll
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.pdb
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\BMDEditor.genruntimeconfig.cache
+C:\Users\PC\Desktop\BMDTool\BmdStudio\obj\Release\net10.0-windows\ref\BMDEditor.dll
