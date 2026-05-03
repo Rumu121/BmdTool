@@ -57,17 +57,5 @@ y - OffsetY
 Auto Palette (Optional)
 For auto-palette to work, the app looks for mod data in paths such as:
 
-EdytorByRemik/ejkfhsnkjehbhouses.ini
-Data/engine2d/inis/palettes/palettes.ini
-You can also manually select a game/mod root folder and a PCX palette file.
-
-Project Structure
-BmdStudio/Program.cs - application entry point
-BmdStudio/Form1.cs - UI logic and frame operations
-BmdStudio/Bmd/BmdCodec.cs - BMD codec (C2)
-BmdStudio/Bmd/BmdCodecCultures1.cs - BMD codec (C1)
-BmdStudio/Bmd/BmdModels.cs - document and frame models
-BmdStudio/Bmd/PaletteCodec.cs - palette loading/generation
-BmdStudio/Bmd/PaletteAutoResolver.cs - palette auto-detection
 Note
 The repository currently includes bin/ and obj/ build artifacts. For day-to-day development, it is recommended to ignore them in .gitignore.
