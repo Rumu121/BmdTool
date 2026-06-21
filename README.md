@@ -60,6 +60,6 @@ For auto-palette to work, the app looks for mod data in paths such as:
 Note
 The repository currently includes bin/ and obj/ build artifacts. For day-to-day development, it is recommended to ignore them in .gitignore.
 
-This tool was created by combining codes
-https://github.com/Mikulus6/Cultures-map-editor
-https://github.com/kamil0495/CEngine
+This tool was created by combining codes:
+Mikulus:https://github.com/Mikulus6/Cultures-map-editor
+Remik:https://github.com/kamil0495/CEngine
